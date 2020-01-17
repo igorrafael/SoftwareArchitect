@@ -2,6 +2,13 @@
 
 Several years ago, I was asked: “How have you become a software architect?”. We talked about necessary skills, experience and the amount of time and dedication it took to build up knowledge. Further, I went through the steps which I took, which technologies I have actively worked with or tried out and what I have learned during my professional and non-professional career.
 
+## Contents
+- [What is a Software Architect](#what-is-a-software-architect)
+- [Levels of Architecture](#levels-of-architecture)
+- [Typical Activities of Software Architects](#typical-activities-of-software-architects)
+- [Important Skills of Software Architects](#important-skills-of-software-architects)
+- [Architect Technology Roadmap](#architect-technology-roadmap)
+
 # What is a Software Architect?
 Before we dive into details, let’s have a look at two definitions first.
 
