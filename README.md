@@ -143,4 +143,4 @@ But please, don’t overdo marketing: In the long term, content is king. If your
 
 
 # Architect Technology Roadmap
-![Architect roadmap](./Src/archRoadmap.jpg)
+![Architect roadmap](./src/archRoadmap.jpg)
